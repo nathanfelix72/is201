@@ -1,0 +1,81 @@
+body{
+    background-color: lightyellow;
+}
+
+.common{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    height: 100px;
+    background-color: gold;
+    color: black;
+    line-height: 100px;
+    text-align: center;
+}
+
+.mainbody{
+    background-color: lightyellow;
+    right: 5px;
+}
+
+.footer{
+    height: 25px;
+    font-size: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: black;
+    color: white;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+    position: fixed;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+nav{
+    background-color: lightgray;
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a:hover{
+    background-color: #ccc
+}
+
+nav a{
+    float: left;
+    color: #333;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+.yay{
+    text-decoration: none;
+    color: black;
+}
+
+.center{
+    text-align: center;
+}
+
+.coloredtext {
+    color: darkgoldenrod;
+}
